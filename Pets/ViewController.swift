@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UITableViewController
 {
-    let pets = ["Dog", "Cat", "Bird", "Monkey", "Snake"]
+    let pets = ["Dog", "Cat", "Bird", "Monkey", "Snake", "Penguin", "Lion", "Tiger", "Elefant"]
     
 
     override func viewDidLoad()
